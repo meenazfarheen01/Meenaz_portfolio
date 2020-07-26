@@ -1,0 +1,23 @@
+#main-header img{
+    width: 100%;
+    height: 100%;
+}
+#main-header .bg-black{
+    background: black;
+}
+#main-header .social a{
+    border: 1px solid white;
+    padding: 4px 7px;
+    border-radius: 40px 40px;
+}
+#main-header .social a:hover{
+    background-color: white;
+    color: black !important;
+}
+#main-header .menu-item{
+    width: 25%;
+    color: white;
+}
+#main-header .menu-item:hover{
+    cursor: pointer;
+}
